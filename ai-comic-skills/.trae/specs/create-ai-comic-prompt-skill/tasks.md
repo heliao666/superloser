@@ -1,0 +1,72 @@
+# Tasks
+
+- [x] Task 1: 创建技能主文件 SKILL.md
+  - [x] SubTask 1.1: 编写YAML frontmatter（name: ai-comic-prompt, description使用"Use when..."格式）
+  - [x] SubTask 1.2: 编写技能概述与核心原则
+  - [x] SubTask 1.3: 编写交互式需求确认流程（含流程图）
+  - [x] SubTask 1.4: 编写6维度提示词框架说明
+  - [x] SubTask 1.5: 编写剧本转分镜流程说明
+  - [x] SubTask 1.6: 编写输出文档格式规范
+  - [x] SubTask 1.7: 编写自审检查清单
+  - [x] SubTask 1.8: 编写红牌警告与常见错误
+- [x] Task 2: 创建提示词公式与模板参考文档 prompt-formulas.md
+  - [x] SubTask 2.1: 编写Seedance 2.0 六步提示词公式
+  - [x] SubTask 2.2: 编写6维度万能提示词公式
+  - [x] SubTask 2.3: 编写故事板法提示词模板
+  - [x] SubTask 2.4: 编写小说转剧本提示词模板
+  - [x] SubTask 2.5: 编写剧本转分镜提示词模板
+  - [x] SubTask 2.6: 编写人物三视图生成提示词模板
+  - [x] SubTask 2.7: 编写场景四面图生成提示词模板
+  - [x] SubTask 2.8: 编写负面提示词模板
+- [x] Task 3: 创建镜头运镜提示词速查表 camera-movements.md
+  - [x] SubTask 3.1: 编写推拉运镜提示词（慢速推进、慢速拉出、快速推进、眩晕效果等）
+  - [x] SubTask 3.2: 编写无限尺度连续镜头提示词
+  - [x] SubTask 3.3: 编写角色定位构图提示词
+  - [x] SubTask 3.4: 编写障碍物与环境互动提示词
+  - [x] SubTask 3.5: 编写焦点与镜头操控提示词
+  - [x] SubTask 3.6: 编写三脚架运镜提示词
+  - [x] SubTask 3.7: 编写滑轨横向运镜提示词
+  - [x] SubTask 3.8: 编写环绕运镜提示词
+  - [x] SubTask 3.9: 编写垂直运动提示词
+  - [x] SubTask 3.10: 编写光学镜头特效提示词
+  - [x] SubTask 3.11: 编写无人机/航拍视角提示词
+  - [x] SubTask 3.12: 编写风格化动态运镜提示词
+  - [x] SubTask 3.13: 编写主体追踪提示词
+  - [x] SubTask 3.14: 编写时间与速度控制提示词
+- [x] Task 4: 创建情绪表达与人物真实感参考文档 emotion-expressions.md
+  - [x] SubTask 4.1: 编写5大人物真实感技巧（肢体动作、皮肤、运镜、情绪、外表）
+  - [x] SubTask 4.2: 编写情绪度量词与状态词参考表
+  - [x] SubTask 4.3: 编写光源词参考表
+  - [x] SubTask 4.4: 编写面部细节词参考表
+  - [x] SubTask 4.5: 编写前景遮挡词参考表
+  - [x] SubTask 4.6: 编写皮肤质感提示词参考表
+- [x] Task 5: 创建敏感词合规替换指南 compliance-guide.md
+  - [x] SubTask 5.1: 编写常见敏感词与合规替换对照表
+  - [x] SubTask 5.2: 编写合规替换规则说明
+- [x] Task 6: 创建AI配音情感优化技能主文件 skills/ai-voice-prompt/SKILL.md
+  - [x] SubTask 6.1: 编写YAML frontmatter（name: ai-voice-prompt, description使用"Use when..."格式）
+  - [x] SubTask 6.2: 编写三步法核心流程（标点控制语气→写发声方式替代情绪词→加场景和人物状态）
+  - [x] SubTask 6.3: 编写标点符号情感控制说明（含示例对比）
+  - [x] SubTask 6.4: 编写发声方式替代情绪词说明（含万能公式：语气=声音大小+语速快慢+停顿位置+尾音变化）
+  - [x] SubTask 6.5: 编写场景+状态+发声方式+台词公式说明
+  - [x] SubTask 6.6: 编写与ai-comic-prompt技能的集成说明
+  - [x] SubTask 6.7: 编写红牌警告与常见错误
+- [x] Task 7: 创建标点符号情感控制速查表 skills/ai-voice-prompt/punctuation-emotion-guide.md
+  - [x] SubTask 7.1: 编写标点符号→情感语气映射表（问号、感叹号、逗号、省略号、破折号、句号）
+  - [x] SubTask 7.2: 编写8大情绪类别的标点+发声方式组合速查（愤怒、难过、开心、恐惧、怀疑、思考、警告、安慰）
+  - [x] SubTask 7.3: 编写同一台词不同标点的效果对比示例
+- [x] Task 8: 创建发声方式描述参考表 skills/ai-voice-prompt/vocal-delivery-methods.md
+  - [x] SubTask 8.1: 编写声音大小维度参考表（压低、放轻、发颤、加大、嘶哑、发紧等）
+  - [x] SubTask 8.2: 编写语速快慢维度参考表（加快、放慢、不稳、一字一句、断断续续等）
+  - [x] SubTask 8.3: 编写停顿位置维度参考表（中间停顿、句末停顿、关键词前停顿、呼吸停顿等）
+  - [x] SubTask 8.4: 编写尾音变化维度参考表（上扬、下沉、发虚、拖长、收住等）
+  - [x] SubTask 8.5: 编写情绪→发声方式完整映射表
+
+# Task Dependencies
+- [Task 2] depends on [Task 1] — 模板文档需要与主文件中的流程引用保持一致
+- [Task 3] depends on [Task 2] — 运镜表需要与模板中的运镜部分保持一致
+- [Task 4] depends on [Task 2] — 情绪表达参考需要与模板中情绪部分保持一致
+- [Task 5] depends on [Task 1] — 合规指南需要与主文件中的合规检查流程保持一致
+- [Task 7] depends on [Task 6] — 速查表需要与主文件中的标点控制流程保持一致
+- [Task 8] depends on [Task 6] — 发声方式参考表需要与主文件中的发声方式说明保持一致
+- [Task 6] 与 [Task 1] 可并行 — 两个独立技能可同时开发

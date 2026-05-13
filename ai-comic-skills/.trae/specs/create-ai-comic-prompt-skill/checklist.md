@@ -1,0 +1,37 @@
+- [x] SKILL.md 包含有效的YAML frontmatter（name和description字段，description以"Use when..."开头）
+- [x] SKILL.md 包含完整的交互式需求确认流程（含graphviz流程图）
+- [x] SKILL.md 包含6维度提示词框架说明
+- [x] SKILL.md 包含剧本转分镜流程说明
+- [x] SKILL.md 包含输出文档格式规范（保存路径、章节结构）
+- [x] SKILL.md 包含自审检查清单
+- [x] SKILL.md 包含红牌警告与常见错误
+- [x] SKILL.md 包含与其他Superpowers技能的集成说明（如brainstorming、writing-plans）
+- [x] prompt-formulas.md 包含Seedance 2.0六步提示词公式
+- [x] prompt-formulas.md 包含6维度万能提示词公式
+- [x] prompt-formulas.md 包含故事板法提示词模板
+- [x] prompt-formulas.md 包含小说转剧本提示词模板
+- [x] prompt-formulas.md 包含剧本转分镜提示词模板
+- [x] prompt-formulas.md 包含人物三视图生成提示词模板
+- [x] prompt-formulas.md 包含场景四面图生成提示词模板
+- [x] prompt-formulas.md 包含负面提示词模板
+- [x] camera-movements.md 包含42种镜头运镜提示词分类速查
+- [x] emotion-expressions.md 包含5大人物真实感技巧
+- [x] emotion-expressions.md 包含情绪度量词与状态词参考表
+- [x] emotion-expressions.md 包含光源词、面部细节词、前景遮挡词参考表
+- [x] compliance-guide.md 包含常见敏感词与合规替换对照表
+- [x] ai-voice-prompt/SKILL.md 包含有效的YAML frontmatter（name: ai-voice-prompt, description以"Use when..."开头）
+- [x] ai-voice-prompt/SKILL.md 包含三步法核心流程（标点控制语气→写发声方式替代情绪词→加场景和人物状态）
+- [x] ai-voice-prompt/SKILL.md 包含标点符号情感控制说明（含示例对比）
+- [x] ai-voice-prompt/SKILL.md 包含发声方式替代情绪词说明（含万能公式）
+- [x] ai-voice-prompt/SKILL.md 包含场景+状态+发声方式+台词公式说明
+- [x] ai-voice-prompt/SKILL.md 包含与ai-comic-prompt技能的集成说明
+- [x] ai-voice-prompt/SKILL.md 包含红牌警告与常见错误
+- [x] punctuation-emotion-guide.md 包含标点符号→情感语气映射表
+- [x] punctuation-emotion-guide.md 包含8大情绪类别的标点+发声方式组合速查
+- [x] punctuation-emotion-guide.md 包含同一台词不同标点的效果对比示例
+- [x] vocal-delivery-methods.md 包含声音大小维度参考表
+- [x] vocal-delivery-methods.md 包含语速快慢维度参考表
+- [x] vocal-delivery-methods.md 包含停顿位置维度参考表
+- [x] vocal-delivery-methods.md 包含尾音变化维度参考表
+- [x] vocal-delivery-methods.md 包含情绪→发声方式完整映射表
+- [x] 所有文件遵循Superpowers技能设计规范（零依赖、无占位符、无叙事性内容）

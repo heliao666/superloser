@@ -1,0 +1,7 @@
+{
+  "name": "ai-comic-skills",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI漫剧提示词生成与配音情感优化技能集",
+  "license": "MIT"
+}
